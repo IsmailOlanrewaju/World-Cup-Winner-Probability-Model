@@ -8,7 +8,7 @@ The outputs are produced after running **10,000 simulated knockout tournaments**
 
 # Output Files
 
-## `team win_probability.csv`
+## `Team Win_Probability.csv`
 
 This file contains the estimated probability of each country winning the tournament.
 
